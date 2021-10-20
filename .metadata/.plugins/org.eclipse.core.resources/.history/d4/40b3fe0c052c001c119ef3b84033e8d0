@@ -1,0 +1,11 @@
+
+<%
+ 	String nomeEmpresa = re
+	System.out.println(nomeEmpresa);
+%>
+
+<html>
+<body>
+Nova empresa <%= nomeEmpresa %>  cadastrada com sucesso!
+</body>
+</html>

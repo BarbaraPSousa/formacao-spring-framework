@@ -1,0 +1,10 @@
+1633960821641	Move 'webapp' to 'build'
+1633960831512	Move 'webapp' to 'gerenciador'
+1634113637211	Move 'novaEmpresaCriada.html' to 'webapp'
+1634113656312	Rename resource 'novaEmpresaCriada.html'
+1634113682404	Rename resource 'novaEmpresaCriada.jps'
+1634118186290	Move 'listaEmpresas.jsp' to 'webapp'
+1634129648167	Rename resource 'formNovaEmpresa.html'
+1634130703010	Move 'testejsp.jsp' to 'webapp'
+1634130710191	Rename resource 'testejsp.jsp'
+1634133099159	Delete element
